@@ -77,9 +77,6 @@ This project introduces a reinforcement learning-based approach to traffic light
 - Multi-lane support with dynamic signal adjustments.
 - Interfaces for traffic authorities to monitor and control the system.
 
-
-## Testing and Results
-
 ### Key Findings
 - High detection accuracy under varying lighting and traffic conditions.
 - Effective traffic density classification into three categories.
